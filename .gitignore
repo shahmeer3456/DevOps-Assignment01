@@ -1,0 +1,24 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Appium / Test artifacts
+screenshots/
+*.log
+
+# Maven
+*.jar
+*.class
+dependency-reduced-pom.xml
+
+# Node
+node_modules/
